@@ -129,7 +129,7 @@
     <ClInclude Include="yamyamdx11.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="yamyamdx11.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="yamyamdx11.rc" />
